@@ -2,3 +2,5 @@ streamlit
 google-search-results
 PyPDF2
 requests
+transformers
+torch
