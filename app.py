@@ -4,7 +4,7 @@ from PyPDF2 import PdfReader
 import requests
 
 # Configuratie voor SerpAPI
-SERPAPI_API_KEY = "jouw_serpapi_api_sleutel"
+SERPAPI_API_KEY = "487bd472e40f606b2e2a8ac48961981e5b4dfdab33590e5a31474de52bd74608"
 
 # Functies
 def fetch_google_scholar_results(query, num_results=10):
